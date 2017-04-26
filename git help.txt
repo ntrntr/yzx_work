@@ -1,3 +1,4 @@
+ssh-add ~/.ssh/github
 提交上传
 git add README
 
